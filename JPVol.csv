@@ -1,0 +1,112 @@
+Number,Volcano Name,Country,Region,LAT,LON,ELEV,Type,Status
+0803-001,Abu,Japan,Honshu-Japan,34.5,131.6,571,Shield volcano,Holocene
+0803-17=,Adatara,Japan,Honshu-Japan,37.62,140.28,1718,Stratovolcano,Historical
+0803-13=,Akagi,Japan,Honshu-Japan,36.53,139.18,1828,Stratovolcano,Historical
+0805-07=,Akan,Japan,Hokkaido-Japan,43.38,144.02,1499,Caldera,Historical
+0803-23=,Akita-Komaga-take,Japan,Honshu-Japan,39.75,140.8,1637,Stratovolcano,Historical
+0803-26=,Akita-Yake-yama,Japan,Honshu-Japan,39.97,140.77,1366,Complex volcano,Historical
+0802-021,Akuseki-jima,Japan,Ryukyu Is,29.45,129.6,586,Stratovolcano,Holocene
+0802-022,Akuseki-jima,Japan,Ryukyu Is,29.461,129.597,584,Stratovolcanoes,Holocene?
+0804-06=,Aoga-shima,Japan,Izu Is-Japan,32.45,139.77,423,Stratovolcano,Historical
+0803-11=,Asama,Japan,Honshu-Japan,36.4,138.53,2560,Complex volcano,Historical
+0802-11=,Aso,Japan,Kyushu-Japan,32.88,131.1,1592,Caldera,Historical
+0803-18=,Azuma,Japan,Honshu-Japan,37.73,140.25,2024,Stratovolcano,Historical
+0803-16=,Bandai,Japan,Honshu-Japan,37.6,140.08,1819,Stratovolcano,Historical
+0804-07=,Bayonnaise Rocks,Japan,Izu Is-Japan,31.92,139.92,10,Submarine volcano,Historical
+0803-22=,Chokai,Japan,Honshu-Japan,39.08,140.03,2237,Stratovolcano,Historical
+0804-137,Daikoku,Japan,Volcano Is-Japan,21.324,144.194,-323,Submarine volcano,Fumarolic
+0805-06=,Daisetsu,Japan,Hokkaido-Japan,43.68,142.88,2290,Stratovolcano,Tephrochronology
+0804-095,Doyo Seamount,Japan,Izu Is-Japan,27.683,140.8,-860,Submarine volcano,Fumarolic
+0805-011,E-san,Japan,Hokkaido-Japan,41.8,141.17,618,Stratovolcano,Historical
+0803-03=,Fuji,Japan,Honshu-Japan,35.35,138.73,3776,Stratovolcano,Historical
+0802-091,Fukue-jima,Japan,Kyushu-Japan,32.653,128.851,317,Shield volcanoes,Tephrochronology
+0804-133,Fukujin,Japan,Volcano Is-Japan,21.925,143.442,-217,Submarine volcano,Historical
+0804-13=,Fukutoku-okanoba,Japan,Volcano Is-Japan,24.28,141.52,-14,Submarine volcano,Historical
+0804-05=,Hachijo-jima,Japan,Izu Is-Japan,33.13,139.77,854,Stratovolcano,Historical
+0803-25=,Hachimantai,Japan,Honshu-Japan,39.95,140.85,1614,Stratovolcano,Holocene
+0803-28=,Hakkoda Group,Japan,Honshu-Japan,40.65,140.88,1585,Stratovolcano,Holocene
+0803-02=,Hakone,Japan,Honshu-Japan,35.22,139.02,1438,Complex volcano,Radiocarbon
+0803-05=,Haku-san,Japan,Honshu-Japan,36.15,136.78,2702,Stratovolcano,Historical
+0803-122,Haruna,Japan,Honshu-Japan,36.47,138.88,1449,Stratovolcano,Anthropology
+0803-191,Hijiori,Japan,Honshu-Japan,38.6,140.18,516,Caldera,Radiocarbon
+0803-131,Hiuchi,Japan,Honshu-Japan,36.95,139.28,2346,Stratovolcano,Historical
+0802-07=,Ibusuki Volc Field,Japan,Kyushu-Japan,31.22,130.57,922,Caldera,Historical
+0802-01=,Iriomote-jima,Japan,Ryukyu Is,24.558,124,-200,Submarine volcano,Historical
+0803-27=,Iwaki,Japan,Honshu-Japan,40.65,140.3,1625,Stratovolcano,Historical
+0803-24=,Iwate,Japan,Honshu-Japan,39.85,141,2041,Complex volcano,Historical
+0802-02=,Iwo-Tori-shima,Japan,Ryukyu Is,27.85,128.25,217,Complex volcano,Historical
+0804-12=,Iwo-jima,Japan,Volcano Is-Japan,24.75,141.33,161,Caldera,Historical
+0803-01=,Izu-Tobu,Japan,Honshu-Japan,34.92,139.12,1406,Pyroclastic cone,Historical
+0804-097,Kaikata Seamount,Japan,Volcano Is-Japan,26.667,141,-162,Submarine volcano,Fumarolic
+0804-10=,Kaitoku Seamount,Japan,Volcano Is-Japan,26.122,141.102,-10,Submarine volcano,Historical
+0804-134,Kasuga,Japan,Volcano Is-Japan,21.77,143.72,-558,Submarine volcano,Uncertain
+0802-06=,Kikai,Japan,Ryukyu Is,30.78,130.28,717,Caldera,Historical
+0802-09=,Kirishima,Japan,Kyushu-Japan,31.93,130.87,1700,Shield volcano,Historical
+0804-121,Kita-Fukutokutai,Japan,Volcano Is-Japan,24.414,141.419,-73,Submarine volcano,Holocene
+0804-11=,Kita-Iwo-jima,Japan,Volcano Is-Japan,25.43,141.23,792,Stratovolcano,Historical
+0805-02=,Komaga-take,Japan,Hokkaido-Japan,42.07,140.68,1140,Stratovolcano,Historical
+0804-03=,Kozu-shima,Japan,Izu Is-Japan,34.22,139.15,574,Lava dome,Historical
+0802-041,Kuchino-shima,Japan,Ryukyu Is,29.97,129.93,627,Stratovolcano,Holocene
+0802-043,Kuchino-shima,Japan,Ryukyu Is,29.964,129.928,628,Stratovolcanoes,Radiocarbon
+0802-05=,Kuchinoerabu-jima,Japan,Ryukyu Is,30.43,130.22,649,Stratovolcano,Historical
+0802-12=,Kuju Group,Japan,Kyushu-Japan,33.08,131.25,1788,Stratovolcano,Historical
+0803-21=,Kurikoma,Japan,Honshu-Japan,38.95,140.78,1628,Stratovolcano,Historical
+0804-041,Kurose Hole,Japan,Izu Is-Japan,33.4,139.68,-107,Submarine volcano,Holocene
+0804-042,Kurose Hole,Japan,Izu Is-Japan,33.4,139.683,-107,Submarine volcano,Holocene?
+0803-12=,Kusatsu-Shirane,Japan,Honshu-Japan,36.62,138.55,2176,Stratovolcano,Historical
+0805-08=,Kutcharo,Japan,Hokkaido-Japan,43.55,144.43,1000,Caldera,Tephrochronology
+0805-034,Kuttara,Japan,Hokkaido-Japan,42.5,141.18,581,Stratovolcano,Tephrochronology
+0805-081,Mashu,Japan,Hokkaido-Japan,43.57,144.57,855,Caldera,Radiocarbon
+0803-262,Megata,Japan,Honshu-Japan,39.95,139.73,291,Maar,Tephrochronology
+0804-131,Minami-Hiyoshi,Japan,Volcano Is-Japan,23.507,141.905,-30,Submarine volcano,Historical
+0804-04=,Miyake-jima,Japan,Izu Is-Japan,34.08,139.53,815,Stratovolcano,Historical
+0804-094,Mokuyo Seamount,Japan,Izu Is-Japan,28.317,140.567,-920,Submarine volcano,Fumarolic
+0804-061,Myojun Knoll,Japan,Izu Is-Japan,32.1,139.85,360,Submarine volcano,Holocene
+0803-10=,Myoko,Japan,Honshu-Japan,36.88,138.12,2446,Stratovolcano,Radiocarbon
+0802-04=,Nakano-shima,Japan,Ryukyu Is,29.85,129.87,979,Stratovolcano,Historical
+0803-141,Nantai,Japan,Honshu-Japan,36.77,139.5,2484,Stratovolcano,Holocene
+0803-20=,Narugo,Japan,Honshu-Japan,38.73,140.73,462,Caldera,Historical
+0803-15=,Nasu,Japan,Honshu-Japan,37.12,139.97,1917,Stratovolcano,Historical
+0804-02=,Nii-jima,Japan,Izu Is-Japan,34.37,139.27,432,Lava dome,Historical
+0803-09=,Niigata-Yake-yama,Japan,Honshu-Japan,36.92,138.03,2400,Lava dome,Historical
+0804-132,Nikko,Japan,Volcano Is-Japan,23.075,142.308,-391,Submarine volcano,Uncertain
+0803-14=,Nikko-Shirane,Japan,Honshu-Japan,36.8,139.38,2578,Shield volcano,Historical
+0805-061,Nipesotsu-Upepesanke,Japan,Japan,43.45,143.03,2013,Lava dome,Historical
+0805-031,Niseko,Japan,Hokkaido-Japan,42.88,140.63,1154,Stratovolcano,Holocene
+0804-096,Nishino-shima,Japan,Volcano Is-Japan,27.274,140.882,38,Caldera,Historical
+0803-06=,Norikura,Japan,Honshu-Japan,36.12,137.55,3026,Stratovolcano,Radiocarbon
+0803-151,Numazawa,Japan,Honshu-Japan,37.43,139.58,1100,Shield volcano,Radiocarbon
+0803-003,Oki-Dogo,Japan,Honshu-Japan,36.17,133.33,151,Shield volcano,Anthropology
+0804-091,Omachi Seamount,Japan,Izu Is-Japan,29.22,140.8,-1700,Submarine volcano,Uncertain
+0803-142,Omanago Group,Japan,Honshu-Japan,36.78,139.5,2367,Lava dome,Holocene
+0803-04=,On-take,Japan,Honshu-Japan,35.9,137.48,3063,Complex volcano,Historical
+0804-01=,Oshima,Japan,Izu Is-Japan,34.73,139.38,758,Stratovolcano,Historical
+0805-01=,Oshima-Oshima,Japan,Hokkaido-Japan,41.5,139.37,737,Stratovolcano,Historical
+0803-29=,Osore-yama,Japan,Honshu-Japan,41.32,141.08,879,Stratovolcano,Historical
+0805-082,Rausu,Japan,Hokkaido-Japan,44.073,145.125,1660,Stratovolcano,Tephrochronology
+0805-041,Rishiri,Japan,Hokkaido-Japan,45.18,141.25,1719,Stratovolcano,Radiocarbon
+0802-08=,Sakura-jima,Japan,Kyushu-Japan,31.58,130.67,1117,Stratovolcano,Historical
+0803-002,Sanbe,Japan,Honshu-Japan,35.13,132.62,1126,Caldera,Radiocarbon
+0803-121,Shiga,Japan,Honshu-Japan,36.7,138.52,2036,Shield volcano,Holocene
+0805-062,Shikaribetsu Group,Japan,Hokkaido-Japan,43.28,143.08,1430,Lava dome,Holocene
+0805-04=,Shikotsu,Japan,Hokkaido-Japan,42.7,141.33,1320,Caldera,Historical
+0805-09=,Shiretoko-Iwo-zan,Japan,Hokkaido-Japan,44.13,145.17,1563,Stratovolcano,Historical
+0804-08=,Smith Rock,Japan,Izu Is-Japan,31.32,140.05,136,Submarine volcano,Historical
+0802-081,Sumiyoshi-ike,Japan,Kyushu-Japan,31.768,130.594,100,Maar,Radiocarbon
+0802-03=,Suwanose-jima,Japan,Ryukyu Is,29.53,129.72,799,Stratovolcano,Historical
+0803-143,Takahara,Japan,Honshu-Japan,36.9,139.78,1795,Stratovolcano,Holocene
+0803-08=,Tate-yama,Japan,Honshu-Japan,36.57,137.6,2621,Stratovolcano,Historical
+0803-031,Tateshina,Japan,Honshu-Japan,36.1,138.3,2530,Stratovolcano,Holocene
+0804-011,To-shima,Japan,Izu Is-Japan,34.52,139.28,508,Stratovolcano,Holocene
+0805-05=,Tokachi,Japan,Hokkaido-Japan,43.42,142.68,2077,Stratovolcano,Historical
+0804-09=,Tori-shima,Japan,Izu Is-Japan,30.48,140.32,403,Stratovolcano,Historical
+0803-271,Towada,Japan,Honshu-Japan,40.47,140.92,1159,Caldera,Historical
+0802-13=,Tsurumi,Japan,Kyushu-Japan,33.28,131.43,1584,Lava dome,Historical
+0804-101,Unnamed,Japan,Volcano Is-Japan,26.133,144.483,-3200,Submarine volcano?,Uncertain
+0804-093,Unnamed,Japan,Volcano Is-Japan,26.13,144.48,-3200,Submarine volcano,Uncertain
+0802-10=,Unzen,Japan,Kyushu-Japan,32.75,130.3,1500,Complex volcano,Historical
+0805-03=,Usu,Japan,Hokkaido-Japan,42.53,140.83,731,Stratovolcano,Historical
+0803-071,Washiba-Kumonotaira,Japan,Honshu-Japan,36.4,137.5,2924,Shield volcano,Tephrochronology
+0803-07=,Yake-dake,Japan,Honshu-Japan,36.22,137.58,2455,Stratovolcano,Historical
+0805-032,Yotei,Japan,Hokkaido-Japan,42.83,140.82,1893,Stratovolcano,Radiocarbon
+0803-19=,Zao,Japan,Honshu-Japan,38.15,140.45,1841,Complex volcano,Historical
